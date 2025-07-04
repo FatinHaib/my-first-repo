@@ -4,6 +4,8 @@ from employee import Employee
 from menuOption import MenuOption  
 import pandas as pd
 
+print("*** hello to my final project in python ***")
+
 def printMenu():
     print("1. save a new entry: ")
     print("2. Search by ID: ")
